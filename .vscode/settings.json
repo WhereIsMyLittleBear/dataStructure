@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "cstdio": "cpp",
+        "cwchar": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp"
+    }
+}
